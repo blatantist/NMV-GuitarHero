@@ -1,0 +1,8 @@
+{
+	displayName: "Slither",
+	artists: ["Velvet Revolver"],
+	charters: ["Guitar Hero 3"],
+	difficulties: ["Easy", "Normal", "Hard"],
+	freeplayColor: "#7E3E44",
+	freeplayIcon: "slither"
+}

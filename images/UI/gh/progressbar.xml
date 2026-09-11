@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="progressbar.png">
+    <SubTexture name="bar0000" x="2" y="2" width="208" height="13"/>
+    <SubTexture name="bar0001" x="212" y="2" width="208" height="13"/>
+    <SubTexture name="bar0002" x="422" y="2" width="4" height="9"/>
+    <SubTexture name="end0000" x="632" y="2" width="48" height="32"/>
+    <SubTexture name="tile0000" x="842" y="2" width="16" height="16"/>
+</TextureAtlas>

@@ -1,0 +1,10 @@
+{
+	"name": "Guitar Hero",
+	"description": "Guitar Hero III's setlist and 5-fret strum gameplay, converted from Clone Hero.",
+	"global": true,
+	"color": [
+		80,
+		90,
+		110
+	]
+}

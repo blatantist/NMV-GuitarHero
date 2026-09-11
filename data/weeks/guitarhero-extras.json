@@ -1,0 +1,19 @@
+{
+	"songs": [
+		["Don't Speak", "don't-speak", [62, 89, 126]],
+		["Jukebox Hero", "jukebox-hero", [126, 68, 62]],
+		["Rock of Ages (Live)", "rock-of-ages-(live)", [80, 90, 110]],
+		["Slither", "slither", [126, 62, 68]]
+	],
+	"weekCharacters": ["dad", "bf", "gf"],
+	"weekBackground": "stage",
+	"weekBefore": "",
+	"storyName": "Extras",
+	"weekName": "Extras",
+	"freeplayColor": [126, 62, 68],
+	"startUnlocked": true,
+	"hiddenUntilUnlocked": false,
+	"hideStoryMode": false,
+	"hideFreeplay": false,
+	"difficulties": ["Hard"]
+}

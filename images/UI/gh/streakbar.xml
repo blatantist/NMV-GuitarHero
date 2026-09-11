@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="streakbar.png">
+    <SubTexture name="streakbar0000" x="2" y="2" width="256" height="64"/>
+    <SubTexture name="streakbar0001" x="260" y="2" width="256" height="64"/>
+</TextureAtlas>

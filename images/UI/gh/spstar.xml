@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="spstar.png">
+    <SubTexture name="star0000" x="2" y="2" width="128" height="128"/>
+    <SubTexture name="star0001" x="246" y="2" width="128" height="128"/>
+    <SubTexture name="star0002" x="490" y="2" width="128" height="128"/>
+    <SubTexture name="spstar0000" x="734" y="2" width="128" height="122"/>
+    <SubTexture name="hudstar0000" x="978" y="2" width="128" height="122"/>
+    <SubTexture name="bigstar0000" x="1222" y="2" width="242" height="233"/>
+</TextureAtlas>

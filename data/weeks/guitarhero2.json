@@ -1,0 +1,21 @@
+{
+	"songs": [
+		["Mississippi Queen", "mississippi-queen", [62, 110, 126]],
+		["School's Out", "school's-out", [126, 110, 62]],
+		["Sunshine of Your Love", "sunshine-of-your-love", [126, 62, 68]],
+		["Barracuda", "barracuda", [62, 126, 110]],
+		["Reptilia", "reptilia", [126, 68, 62]],
+		["Bulls on Parade", "bulls-on-parade", [126, 110, 62]]
+	],
+	"weekCharacters": ["dad", "bf", "gf"],
+	"weekBackground": "stage",
+	"weekBefore": "",
+	"storyName": "Your First Real Gig",
+	"weekName": "Your First Real Gig",
+	"freeplayColor": [126, 110, 62],
+	"startUnlocked": true,
+	"hiddenUntilUnlocked": false,
+	"hideStoryMode": false,
+	"hideFreeplay": false,
+	"difficulties": ["Hard"]
+}

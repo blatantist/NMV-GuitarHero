@@ -1,0 +1,20 @@
+{
+	"songs": [
+		["3's & 7's", "3's-&-7's", [126, 62, 89]],
+		["Before I Forget", "before-i-forget", [126, 78, 62]],
+		["Knights of Cydonia", "knights-of-cydonia", [126, 62, 100]],
+		["Stricken", "stricken", [126, 100, 62]],
+		["Cult of Personality", "cult-of-personality", [126, 68, 62]]
+	],
+	"weekCharacters": ["dad", "bf", "gf"],
+	"weekBackground": "stage",
+	"weekBefore": "",
+	"storyName": "Live in Japan",
+	"weekName": "Live in Japan",
+	"freeplayColor": [126, 68, 62],
+	"startUnlocked": true,
+	"hiddenUntilUnlocked": false,
+	"hideStoryMode": false,
+	"hideFreeplay": false,
+	"difficulties": ["Hard"]
+}

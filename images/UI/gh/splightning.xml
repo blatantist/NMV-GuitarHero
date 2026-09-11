@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="splightning.png">
+    <SubTexture name="bolt0000" x="2" y="2" width="128" height="512"/>
+    <SubTexture name="bolt0001" x="132" y="2" width="128" height="512"/>
+    <SubTexture name="bolt0002" x="262" y="2" width="128" height="512"/>
+    <SubTexture name="bolt0003" x="392" y="2" width="128" height="512"/>
+    <SubTexture name="bolt0004" x="522" y="2" width="128" height="512"/>
+    <SubTexture name="bolt0005" x="652" y="2" width="128" height="512"/>
+    <SubTexture name="bolt0006" x="782" y="2" width="128" height="512"/>
+    <SubTexture name="bolt0007" x="912" y="2" width="128" height="512"/>
+</TextureAtlas>

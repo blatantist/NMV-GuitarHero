@@ -1,0 +1,8 @@
+{
+	displayName: "Belly of a Shark",
+	artists: ["Gallows"],
+	charters: ["Guitar Hero 3"],
+	difficulties: ["Hard"],
+	freeplayColor: "#7E3E59",
+	freeplayIcon: "belly-of-a-shark"
+}

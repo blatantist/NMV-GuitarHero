@@ -1,0 +1,8 @@
+{
+	displayName: "Hier Kommt Alex",
+	artists: ["Die Toten Hosen"],
+	charters: ["Guitar Hero 3"],
+	difficulties: ["Hard"],
+	freeplayColor: "#7E793E",
+	freeplayIcon: "hier-kommt-alex"
+}

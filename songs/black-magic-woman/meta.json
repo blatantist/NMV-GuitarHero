@@ -1,0 +1,8 @@
+{
+	displayName: "Black Magic Woman",
+	artists: ["Santana"],
+	charters: ["Guitar Hero 3"],
+	difficulties: ["Hard"],
+	freeplayColor: "#7E3E44",
+	freeplayIcon: "black-magic-woman"
+}

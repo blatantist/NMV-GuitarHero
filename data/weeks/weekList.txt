@@ -1,0 +1,10 @@
+guitarhero1
+guitarhero2
+guitarhero3
+guitarhero4
+guitarhero5
+guitarhero6
+guitarhero7
+guitarhero8
+guitarhero-bonus
+guitarhero-extras

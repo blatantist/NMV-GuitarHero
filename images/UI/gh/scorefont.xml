@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="scorefont.png">
+    <SubTexture name="comma0000" x="2" y="2" width="59" height="62"/>
+    <SubTexture name="00000" x="63" y="2" width="59" height="62"/>
+    <SubTexture name="10000" x="124" y="2" width="59" height="62"/>
+    <SubTexture name="20000" x="185" y="2" width="59" height="62"/>
+    <SubTexture name="30000" x="246" y="2" width="59" height="62"/>
+    <SubTexture name="40000" x="307" y="2" width="59" height="62"/>
+    <SubTexture name="50000" x="368" y="2" width="59" height="62"/>
+    <SubTexture name="60000" x="429" y="2" width="59" height="62"/>
+    <SubTexture name="70000" x="490" y="2" width="59" height="62"/>
+    <SubTexture name="80000" x="551" y="2" width="59" height="62"/>
+    <SubTexture name="90000" x="612" y="2" width="59" height="62"/>
+</TextureAtlas>

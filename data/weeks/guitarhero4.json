@@ -1,0 +1,21 @@
+{
+	"songs": [
+		["Anarchy in the UK", "anarchy-in-the-uk", [126, 121, 62]],
+		["Kool Thing", "kool-thing", [106, 100, 83]],
+		["My Name Is Jonas", "my-name-is-jonas", [62, 110, 126]],
+		["Paranoid", "paranoid", [126, 68, 62]],
+		["Even Flow", "even-flow", [126, 62, 89]],
+		["Cities on Flame with Rock and Roll", "cities-on-flame-with-rock-and-roll", [80, 90, 110]]
+	],
+	"weekCharacters": ["dad", "bf", "gf"],
+	"weekBackground": "stage",
+	"weekBefore": "",
+	"storyName": "European Invasion",
+	"weekName": "European Invasion",
+	"freeplayColor": [80, 90, 110],
+	"startUnlocked": true,
+	"hiddenUntilUnlocked": false,
+	"hideStoryMode": false,
+	"hideFreeplay": false,
+	"difficulties": ["Hard"]
+}

@@ -1,0 +1,8 @@
+{
+	displayName: "Nothing For Me Here",
+	artists: ["Dope"],
+	charters: ["Guitar Hero 3"],
+	difficulties: ["Hard"],
+	freeplayColor: "#7E3E44",
+	freeplayIcon: "nothing-for-me-here"
+}

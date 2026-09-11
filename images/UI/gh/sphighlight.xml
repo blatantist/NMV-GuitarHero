@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="sphighlight.png">
+    <SubTexture name="sp0000" x="2" y="2" width="470" height="30"/>
+    <SubTexture name="sp0001" x="489" y="2" width="478" height="34"/>
+    <SubTexture name="sp0002" x="976" y="2" width="483" height="30"/>
+    <SubTexture name="sp0003" x="1463" y="2" width="485" height="30"/>
+    <SubTexture name="sp0004" x="2" y="40" width="485" height="30"/>
+    <SubTexture name="sp0005" x="489" y="40" width="485" height="30"/>
+    <SubTexture name="sp0006" x="976" y="40" width="485" height="30"/>
+    <SubTexture name="sp0007" x="1463" y="40" width="485" height="30"/>
+    <SubTexture name="sp0008" x="2" y="78" width="485" height="30"/>
+    <SubTexture name="sp0009" x="489" y="78" width="485" height="30"/>
+    <SubTexture name="sp0010" x="976" y="78" width="485" height="30"/>
+    <SubTexture name="sp0011" x="1463" y="78" width="485" height="30"/>
+    <SubTexture name="sp0012" x="2" y="116" width="485" height="30"/>
+    <SubTexture name="sp0013" x="489" y="116" width="485" height="30"/>
+    <SubTexture name="sp0014" x="976" y="116" width="483" height="30"/>
+    <SubTexture name="sp0015" x="1463" y="116" width="479" height="36"/>
+    <SubTexture name="hl0000" x="2" y="154" width="444" height="20"/>
+    <SubTexture name="hl0001" x="489" y="154" width="444" height="20"/>
+    <SubTexture name="hl0002" x="976" y="154" width="444" height="22"/>
+    <SubTexture name="hl0003" x="1463" y="154" width="446" height="22"/>
+    <SubTexture name="hl0004" x="2" y="192" width="448" height="22"/>
+    <SubTexture name="hl0005" x="489" y="192" width="448" height="20"/>
+    <SubTexture name="hl0006" x="976" y="192" width="448" height="20"/>
+    <SubTexture name="hl0007" x="1463" y="192" width="448" height="20"/>
+    <SubTexture name="hl0008" x="2" y="230" width="444" height="20"/>
+    <SubTexture name="hl0009" x="489" y="230" width="444" height="20"/>
+    <SubTexture name="hl0010" x="976" y="230" width="444" height="22"/>
+    <SubTexture name="hl0011" x="1463" y="230" width="446" height="22"/>
+    <SubTexture name="hl0012" x="2" y="268" width="446" height="22"/>
+    <SubTexture name="hl0013" x="489" y="268" width="446" height="20"/>
+    <SubTexture name="hl0014" x="976" y="268" width="448" height="20"/>
+    <SubTexture name="hl0015" x="1463" y="268" width="444" height="20"/>
+</TextureAtlas>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="scorebar.png">
+    <SubTexture name="scorebar0000" x="2" y="2" width="302" height="86" frameX="0" frameY="0" frameWidth="303" frameHeight="86"/>
+    <SubTexture name="scorebar0001" x="306" y="2" width="303" height="86" frameX="0" frameY="0" frameWidth="303" frameHeight="86"/>
+</TextureAtlas>

@@ -1,0 +1,21 @@
+{
+	"songs": [
+		["Holiday in Cambodia", "holiday-in-cambodia", [80, 90, 110]],
+		["La Grange", "la-grange", [68, 126, 62]],
+		["Rock You Like a Hurricane", "rock-you-like-a-hurricane", [79, 76, 113]],
+		["Same Old Song and Dance", "same-old-song-and-dance", [126, 110, 62]],
+		["Helicopter", "helicopter", [107, 92, 82]],
+		["Welcome to the Jungle", "welcome-to-the-jungle", [126, 62, 78]]
+	],
+	"weekCharacters": ["dad", "bf", "gf"],
+	"weekBackground": "stage",
+	"weekBefore": "",
+	"storyName": "Big House Blues",
+	"weekName": "Big House Blues",
+	"freeplayColor": [126, 62, 78],
+	"startUnlocked": true,
+	"hiddenUntilUnlocked": false,
+	"hideStoryMode": false,
+	"hideFreeplay": false,
+	"difficulties": ["Hard"]
+}

@@ -1,0 +1,8 @@
+{
+	displayName: "Generation Rock",
+	artists: ["Revolverheld"],
+	charters: ["Guitar Hero 3"],
+	difficulties: ["Hard"],
+	freeplayColor: "#756248",
+	freeplayIcon: "generation-rock"
+}

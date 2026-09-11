@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="rockmeter.png">
+    <SubTexture name="body0000" x="2" y="2" width="36" height="251" frameX="-8" frameY="0" frameWidth="54" frameHeight="251"/>
+    <SubTexture name="red0000" x="40" y="2" width="33" height="106" frameX="-9" frameY="-127" frameWidth="54" frameHeight="251"/>
+    <SubTexture name="yellow0000" x="75" y="2" width="29" height="79" frameX="-13" frameY="-60" frameWidth="54" frameHeight="251"/>
+    <SubTexture name="green0000" x="106" y="2" width="27" height="62" frameX="-17" frameY="-10" frameWidth="54" frameHeight="251"/>
+    <SubTexture name="needle0000" x="135" y="2" width="54" height="61" frameX="0" frameY="-80" frameWidth="54" frameHeight="251"/>
+</TextureAtlas>

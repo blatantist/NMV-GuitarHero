@@ -1,0 +1,8 @@
+{
+	displayName: "Cherub Rock",
+	artists: ["The Smashing Pumpkins"],
+	charters: ["Guitar Hero 3"],
+	difficulties: ["Hard"],
+	freeplayColor: "#7E593E",
+	freeplayIcon: "cherub-rock"
+}

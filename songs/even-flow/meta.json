@@ -1,0 +1,8 @@
+{
+	displayName: "Even Flow",
+	artists: ["Pearl Jam"],
+	charters: ["Guitar Hero 3"],
+	difficulties: ["Hard"],
+	freeplayColor: "#7E3E59",
+	freeplayIcon: "even-flow"
+}

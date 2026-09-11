@@ -1,0 +1,8 @@
+{
+	displayName: "Pride and Joy",
+	artists: ["Stevie Ray Vaughn"],
+	charters: ["Guitar Hero 3"],
+	difficulties: ["Hard"],
+	freeplayColor: "#7E4E3E",
+	freeplayIcon: "pride-and-joy"
+}

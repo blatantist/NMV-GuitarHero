@@ -1,0 +1,8 @@
+{
+	displayName: "Barracuda",
+	artists: ["Heart"],
+	charters: ["Guitar Hero 3"],
+	difficulties: ["Hard"],
+	freeplayColor: "#3E7E6E",
+	freeplayIcon: "barracuda"
+}

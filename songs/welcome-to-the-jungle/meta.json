@@ -1,0 +1,8 @@
+{
+	displayName: "Welcome to the Jungle",
+	artists: ["Guns N' Roses"],
+	charters: ["Guitar Hero 3"],
+	difficulties: ["Hard"],
+	freeplayColor: "#7E3E4E",
+	freeplayIcon: "welcome-to-the-jungle"
+}

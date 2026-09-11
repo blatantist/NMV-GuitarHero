@@ -1,0 +1,8 @@
+{
+	displayName: "I'm in the Band",
+	artists: ["Hellacopters"],
+	charters: ["Guitar Hero 3"],
+	difficulties: ["Hard"],
+	freeplayColor: "#7E593E",
+	freeplayIcon: "i'm-in-the-band"
+}

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="hudglow.png">
+    <SubTexture name="sidebar0000" x="2" y="2" width="64" height="512"/>
+    <SubTexture name="sideglow0000" x="321" y="2" width="221" height="412"/>
+    <SubTexture name="hwglow0000" x="640" y="2" width="317" height="381"/>
+    <SubTexture name="hwglow0001" x="959" y="2" width="317" height="381"/>
+</TextureAtlas>

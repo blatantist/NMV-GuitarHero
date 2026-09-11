@@ -1,0 +1,8 @@
+{
+	displayName: "Paint It Black",
+	artists: ["The Rolling Stones"],
+	charters: ["Guitar Hero 3"],
+	difficulties: ["Hard"],
+	freeplayColor: "#3E647E",
+	freeplayIcon: "paint-it-black"
+}

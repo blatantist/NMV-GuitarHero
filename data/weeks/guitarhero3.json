@@ -1,0 +1,21 @@
+{
+	"songs": [
+		["Lay Down", "lay-down", [126, 78, 62]],
+		["Miss Murder", "miss-murder", [70, 90, 119]],
+		["The Seeker", "the-seeker", [126, 62, 68]],
+		["When You Were Young", "when-you-were-young", [126, 62, 68]],
+		["Suck My Kiss", "suck-my-kiss", [126, 62, 68]],
+		["Paint It Black", "paint-it-black", [62, 100, 126]]
+	],
+	"weekCharacters": ["dad", "bf", "gf"],
+	"weekBackground": "stage",
+	"weekBefore": "",
+	"storyName": "Making the Video",
+	"weekName": "Making the Video",
+	"freeplayColor": [62, 100, 126],
+	"startUnlocked": true,
+	"hiddenUntilUnlocked": false,
+	"hideStoryMode": false,
+	"hideFreeplay": false,
+	"difficulties": ["Hard"]
+}

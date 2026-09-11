@@ -1,0 +1,21 @@
+{
+	"songs": [
+		["Slow Ride", "slow-ride", [118, 122, 66]],
+		["Talk Dirty To Me", "talk-dirty-to-me", [126, 89, 62]],
+		["Hit Me With Your Best Shot", "hit-me-with-your-best-shot", [126, 89, 62]],
+		["Story of My Life", "story-of-my-life", [62, 100, 126]],
+		["Rock And Roll All Nite", "rock-and-roll-all-nite", [107, 110, 79]],
+		["Sabotage", "sabotage", [123, 89, 65]]
+	],
+	"weekCharacters": ["dad", "bf", "gf"],
+	"weekBackground": "stage",
+	"weekBefore": "",
+	"storyName": "Starting Out Small",
+	"weekName": "Starting Out Small",
+	"freeplayColor": [123, 89, 65],
+	"startUnlocked": true,
+	"hiddenUntilUnlocked": false,
+	"hideStoryMode": false,
+	"hideFreeplay": false,
+	"difficulties": ["Hard"]
+}

@@ -1,0 +1,8 @@
+{
+	displayName: "Go That Far",
+	artists: ["Bret Michaels Band"],
+	charters: ["Guitar Hero 3"],
+	difficulties: ["Hard"],
+	freeplayColor: "#7E593E",
+	freeplayIcon: "go-that-far"
+}

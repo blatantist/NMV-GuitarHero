@@ -1,0 +1,21 @@
+{
+	"songs": [
+		["Black Magic Woman", "black-magic-woman", [126, 62, 68]],
+		["Black Sunshine", "black-sunshine", [126, 121, 62]],
+		["Cherub Rock", "cherub-rock", [126, 89, 62]],
+		["The Metal", "the-metal", [126, 68, 62]],
+		["Monsters", "monsters", [83, 89, 106]],
+		["Pride and Joy", "pride-and-joy", [126, 78, 62]]
+	],
+	"weekCharacters": ["dad", "bf", "gf"],
+	"weekBackground": "stage",
+	"weekBefore": "",
+	"storyName": "Hottest Band on Earth",
+	"weekName": "Hottest Band on Earth",
+	"freeplayColor": [126, 78, 62],
+	"startUnlocked": true,
+	"hiddenUntilUnlocked": false,
+	"hideStoryMode": false,
+	"hideFreeplay": false,
+	"difficulties": ["Hard"]
+}
